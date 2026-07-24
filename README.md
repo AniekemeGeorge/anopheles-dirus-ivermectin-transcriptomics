@@ -6,6 +6,8 @@ This repository accompanies a 10-week rotation2 project investigating transcript
 
 - **R workflow.R**
   Complete R workflow for differential expression analysis, volcano plots and downstream analyses.
+  
+- **Workflow Functional Classification.R**
   Functional Classification workflow script
 
 - **an_dirus_deseq_metadata_with_group.csv**

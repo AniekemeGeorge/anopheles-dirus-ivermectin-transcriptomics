@@ -1,0 +1,22 @@
+sample_id,batch,compound,concentration_nM,phenotype,species,analysis_role,group
+R1D13,Batch1,Control-Bloodfed,0,ALIVE,An dirus,secondary_later,Control
+R1D14,Batch1,Control-Bloodfed,0,ALIVE,An dirus,secondary_later,Control
+R1D15,Batch1,Ivermectin,10,ALIVE,An dirus,secondary_later,IVM10
+R1D16,Batch1,Ivermectin,10,ALIVE,An dirus,secondary_later,IVM10
+R1D17,Batch1,Ivermectin,13,ALIVE,An dirus,secondary_later,IVM13
+R1D18,Batch1,Ivermectin,13,ALIVE,An dirus,secondary_later,IVM13
+R1D19,Batch1,Ivermectin,18,ALIVE,An dirus,secondary_later,IVM18
+R1D20,Batch1,Ivermectin,18,ALIVE,An dirus,secondary_later,IVM18
+R2D43,Batch2,Control-Bloodfed,0,ALIVE,An dirus,primary,Control
+R2D44,Batch2,Control-Bloodfed,0,ALIVE,An dirus,primary,Control
+R2D45,Batch2,Ivermectin,4,ALIVE,An dirus,primary,IVM4
+R2D46,Batch2,Ivermectin,4,ALIVE,An dirus,primary,IVM4
+R2D47,Batch2,Ivermectin,10,ALIVE,An dirus,primary,IVM10
+R2D48,Batch2,Ivermectin,10,ALIVE,An dirus,primary,IVM10
+R2D49,Batch2,Ivermectin,18,ALIVE,An dirus,primary,IVM18
+R2D50,Batch2,Ivermectin,18,ALIVE,An dirus,primary,IVM18
+R2D51,Batch2,Ivermectin,10,PARALYZED,An dirus,primary,IVM10_PAR
+R2D52,Batch2,Ivermectin,18,PARALYZED,An dirus,primary,IVM18_PAR
+R2D53,Batch2,Ivermectin,18,PARALYZED,An dirus,primary,IVM18_PAR
+R2D54,Batch2,Ivermectin,18,PARALYZED,An dirus,primary,IVM18_PAR
+R2D55,Batch2,Ivermectin,18,PARALYZED,An dirus,primary,IVM18_PAR
